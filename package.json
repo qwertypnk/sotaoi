@@ -1,0 +1,11 @@
+{
+  "name": "sotaoi",
+  "private": false,
+  "version": "0.9.1",
+  "description": "",
+  "bin": "./signal.js",
+  "dependencies": {
+    "@sotaoi/signal": "^1.0.5",
+    "yargs": "^16.1.1"
+  }
+}
